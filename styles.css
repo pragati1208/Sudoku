@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #container {
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    font-size: 2em;
+    margin: 0 auto;
+  }
+  
+  colgroup,
+  tbody {
+    border: solid medium;
+  }
+  
+  td {
+    border: solid thin;
+    height: 1.4em;
+    width: 1.4em;
+    text-align: center;
+    padding: 0;
+  }
+  
+  button {
+    margin-top: 15px;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .logo {
+    height: 200px;
+    width: 100%; /* Set the width to 100% of the container's width */
+
+  }
+  
+  .padd {
+    padding-bottom: 100px;
+  }
+  
