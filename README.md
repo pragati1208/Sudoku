@@ -1,2 +1,2 @@
 # Sudoku
-# This Sudoku solver was created with Javascript, HTML, and CSS using the backtracking approach. 
+# The Simple Sudoku Solver Game is an interactive web application built using HTML, CSS, and Javascript, employing a Backtracking algorithm to automatically solve Sudoku puzzles. Users can enter numbers of their choice into the Sudoku grid, and by clicking the "Solve!" button, the app reveals the solution for the puzzle. Additionally, a "Clear board" button allows users to reset the grid. The game's user-friendly interface and responsive design ensure a seamless experience on different devices.
